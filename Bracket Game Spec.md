@@ -1,5 +1,7 @@
 # Design Tech Specs for Bracket Game
 
+See here the [deployed NCAAB league contract](https://basescan.org/address/0x1304ba4137e2c4b58fbfd1ce0bc07f4c3c6f35da#code)
+
 ## Overview
 
 Bracket Game is an app for trading votes for your favorite sport teams within various sport-leagues, across the current
